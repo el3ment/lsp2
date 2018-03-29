@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,2BAA4B,CACxB,UAAU,CAAE,CAAC,CACb,GAAG,CAAE,CAAC",
+"sources": ["../../../css/pages/about.scss"],
+"names": [],
+"file": "about.css"
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAOA,cAAc,CAAE,OAAO,CAAE,eAAe,CAExC,6EACoC,CAAE,OAAO,CAAE,eAAe,CAE9D,mFACyC,CAAE,OAAO,CAAE,eAAe,CAEnE,yFAC8C,CAAE,OAAO,CAAE,eAAe,CAExE,+FACmD,CAAE,OAAO,CAAE,eAAe,CAE7E,qGACwD,CAAE,OAAO,CAAE,eAAe,CAElF,2GAC6D,CAAE,OAAO,CAAE,eAAe,CAEvF,iHACkE,CAAE,OAAO,CAAE,eAAe,CAE5F,oHACuE,CAAE,OAAO,CAAE,eAAe",
+"sources": ["../../../css/components/limitElements.scss"],
+"names": [],
+"file": "limitElements.css"
+}

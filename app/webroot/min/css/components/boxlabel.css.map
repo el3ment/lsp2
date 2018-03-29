@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,SAAS,CACL,MAAM,CAAE,KAAK,CACb,gBAAgB,CAAE,SAAS,CAC3B,OAAO,CAAE,GAAG,CACZ,gBAAgB,CAAE,OAAO,CACzB,OAAO,CAAE,YAAY,CACrB,aAAa,CAAE,GAAG,CAClB,KAAK,CAAE,OAAO,CAEd,yBAAiB,CAChB,OAAO,CAAG,gBAAgB,CAC1B,+BAAO,CACN,WAAW,CAAE,GAAG",
+"sources": ["../../../css/components/boxlabel.scss"],
+"names": [],
+"file": "boxlabel.css"
+}
